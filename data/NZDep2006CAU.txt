@@ -1,0 +1,1928 @@
+CAU_num_2006	CAU_name_2006	CAU_average_NZDep2006	CAU_average_NZDep_score_2006
+500100	Awanui	9	1086
+500202	Karikari Peninsula-Maungataniwha	9	1073
+500203	Taipa Bay-Mangonui	8	1047
+500204	Herekino	8	1044
+500205	Ahipara	9	1082
+500206	North Cape	10	1165
+500207	Houhora	8	1044
+500208	Motutangi-Kareponia	8	1053
+500301	Kaitaia West	10	1177
+500302	Kaitaia East	10	1153
+500401	Kaeo	9	1092
+500402	Mangapa-Matauri Bay	8	1036
+500500	Kohukohu	10	1145
+500600	Rawene	10	1193
+500700	Omapere and Opononi	10	1176
+500801	Hokianga North	10	1177
+500802	Hokianga South	10	1202
+500900	Kerikeri	6	983
+501000	Russell	4	955
+501100	Paihia	8	1028
+501200	Haruru Falls	7	1000
+501300	Opua East	5	958
+501400	Kawakawa	10	1136
+501500	Moerewa	10	1177
+501612	Opua West	4	954
+501613	Bay of Islands	7	1010
+501614	Kapiro	5	963
+501615	Waitangi	5	961
+501620	Pokere-Waihaha	9	1074
+501631	Okaihau	9	1073
+501632	Ohaeawai	7	1014
+501633	Waihou Valley-Hupara	4	948
+501634	Ngapuhi-Kaikou	9	1109
+501700	Kaikohe	10	1191
+501802	Opouteke-Tanekaha	4	953
+501806	Marsden Point-Ruakaka	8	1038
+501807	Ngunguru	5	971
+501809	Wharekohe-Oakleigh	2	926
+501810	Maungatapere	3	934
+501811	Waiotira-Springfield	4	952
+501813	Whangaruru Harbour	10	1110
+501814	Punaruku-Kiripaka	6	988
+501815	Bream Bay	4	946
+501816	Waipu	6	987
+501817	Pataua-Whareora	4	945
+501818	Parua Bay	3	943
+501819	Bream Head	4	948
+502001	Springs Flat	5	962
+502002	Three Mile Bush	4	950
+502003	Te Hihi	2	914
+502004	Abbey Caves	2	922
+502005	Otaika-Portland	4	957
+502101	Kamo West	5	962
+502102	Kamo East	8	1032
+502201	Tikipunga West	9	1098
+502202	Tikipunga East	8	1032
+502300	Whau Valley	7	1007
+502400	Otangarei	10	1339
+502500	Western Hills	4	946
+502600	Kensington	8	1039
+502700	Mairtown	8	1035
+502800	Regent	8	1043
+502900	Woodhill	9	1060
+503000	Vinetown	9	1104
+503100	Whangarei Central	9	1090
+503200	Riverside	7	1016
+503300	Horahora	7	1005
+503400	Maunu	2	922
+503500	Raumanga East	10	1166
+503600	Morningside	9	1075
+503700	Parahaki	5	969
+503800	Raumanga West	10	1158
+503900	Port-Limeburners	9	1061
+504000	Sherwood Rise	8	1026
+504100	Onerahi	8	1049
+504300	Hikurangi	9	1088
+504400	Te Kopuru	9	1108
+504501	Kaipara Coastal	7	1015
+504502	Maungaru	5	968
+504600	Dargaville	9	1071
+504700	Maungaturoto	7	1006
+504800	Ruawai	9	1089
+504900	Kaiwaka	8	1047
+505010	Rehia-Oneriri	6	995
+505021	Mangawhai	6	993
+505022	Mangawhai Heads	5	973
+505300	Wellsford	8	1040
+505400	Leigh	7	1001
+505500	Warkworth	6	987
+505600	Kumeu	3	933
+505700	Waipareira West	2	918
+505802	Red Beach	3	934
+505803	Waiwera	8	1049
+505804	Hatfields Beach	4	955
+505805	Orewa	6	990
+505902	Manly	5	961
+505904	Army Bay	3	938
+505906	Vipond	4	947
+505907	Stanmore Bay West	6	976
+505908	Stanmore Bay East	6	979
+505909	Wade Heads	4	949
+505910	Gulf Harbour	3	936
+505911	Gulf Harbour Marina	6	982
+506000	Silverdale South	3	929
+506200	Silverdale North	3	928
+506300	Dairy Flat-Redvale	1	900
+506400	Paremoremo West	1	886
+506613	Tauhoa-Puhoi	4	946
+506614	Tahekeroa	1	912
+506615	Cape Rodney	4	953
+506616	Matheson Bay	6	985
+506620	Kawau		
+506631	Snells Beach	5	973
+506632	Algies Bay-Mahurangi	4	951
+506641	Parakai	8	1049
+506642	South Head	5	968
+506643	Kaukapakapa	2	925
+506651	Muriwai Beach	2	921
+506652	Rewiti	3	931
+506653	Riverhead	1	893
+506800	Helensville	7	1019
+506901	Awaruku	1	903
+506902	Glamorgan	2	918
+506903	Torbay	2	924
+507000	Waiake	2	917
+507101	Browns Bay	3	939
+507102	Oaktree	2	924
+507200	Rothesay Bay	2	915
+507300	Murrays Bay	2	917
+507400	Mairangi Bay	1	909
+507500	Campbells Bay	1	888
+507710	Castor Bay	1	896
+507720	Crown Hill	2	923
+507800	Lake Pupuke	3	929
+507900	Westlake	5	973
+508010	Takapuna Central	3	935
+508020	Hauraki	2	926
+508110	Seacliffe	4	951
+508120	Bayswater	4	955
+508210	Kaipatiki	6	976
+508220	Windy Ridge	5	962
+508310	Glenfield Central	6	980
+508320	Glenfield North	6	977
+508411	Glendhu	5	961
+508412	Witheford	5	963
+508420	Target Road	6	977
+508510	Forrest Hill	3	942
+508520	Sunnynook	4	952
+508610	Monarch Park	3	933
+508620	Sunnybrae	5	959
+508701	Albany	5	965
+508703	Fairview	3	936
+508704	Northcross	4	954
+508803	Unsworth Heights	3	929
+508804	Pinehill	4	947
+508805	Windsor Park	4	956
+508806	North Harbour West	2	916
+508807	North Harbour East	3	934
+508900	Long Bay	1	906
+509000	Paremoremo East	2	925
+509100	Greenhithe	1	899
+509300	Narrow Neck	3	935
+509400	Mt Victoria	2	922
+509500	Stanley Bay	1	890
+509701	Ocean View	5	972
+509702	Tuff Crater	8	1053
+509800	Northcote South	2	922
+510010	Beachhaven North	7	1015
+510020	Beachhaven South	6	978
+510210	Birkdale North	7	1004
+510220	Birkdale South	5	970
+510401	Kauri Park	3	937
+510402	Chelsea	2	913
+510500	Birkenhead East	2	918
+510700	Henderson North	8	1025
+510800	Henderson South	9	1066
+511001	Tangutu	7	1017
+511002	Woodglen	7	1018
+511100	Glen Eden East	8	1029
+511301	New Lynn North	8	1049
+511302	New Lynn South	8	1028
+511303	Lynnmall	9	1056
+511401	Fruitvale	7	1024
+511402	Rewarewa	7	1016
+511601	Glendene North	7	1019
+511602	Glendene South	6	996
+511700	Kelston Central	9	1060
+511800	Sunnyvale	7	1011
+511901	Kaurilands	3	935
+511902	Crum Park	3	931
+512000	Titirangi South	1	896
+512100	Green Bay	4	954
+512201	Matipo	7	1012
+512202	Durham Green	7	1003
+512300	Te Atatu Central	6	984
+512401	Edmonton	7	1003
+512402	Wakeling	5	968
+512500	Mcleod	7	1004
+512600	Konini	2	922
+512700	Waima	1	903
+512801	Laingholm	1	911
+512802	Armour Bay	2	914
+512901	Parrs Park	8	1050
+512902	Otimai	1	893
+513011	Henderson West	2	928
+513012	Palm Heights	7	1008
+513013	McLaren Park	9	1078
+513020	Opanuku	2	925
+513100	Swanson	4	946
+513211	Urlich	9	1089
+513212	Starling Park	9	1071
+513213	Ranui Domain	10	1114
+513214	Ranui South	7	1012
+513220	Sturges North	5	960
+513301	Kingdale	9	1062
+513302	Fairdene	8	1048
+513410	Whenuapai West	4	946
+513420	Herald	1	907
+513430	Hobsonville	2	917
+513511	Westgate	7	1018
+513512	Royal Road West	7	1008
+513521	West Harbour	8	1037
+513522	Lucken Point	2	918
+513530	Royal Heights	8	1024
+513610	Massey West	5	969
+513620	Birdwood	6	984
+513631	Waimumu North	8	1044
+513632	Waimumu South	7	1023
+513701	Taupaki	3	929
+513702	Waitakere	2	927
+513800	Karekare	3	939
+514000	Freemans Bay	5	968
+514101	Auckland Harbourside	6	986
+514102	Auckland Central West	10	1124
+514103	Auckland Central East	10	1155
+514200	Newton	6	992
+514301	Grafton West	9	1101
+514302	Grafton East	9	1061
+514401	Roberton	8	1028
+514402	Glenavon	8	1049
+514500	New Windsor	6	993
+514600	Avondale South	6	983
+514700	Blockhouse Bay	4	954
+514801	Rosebank	9	1073
+514802	Avondale West	9	1078
+514900	Waterview	9	1082
+515001	Point Chevalier West	5	961
+515002	Point Chevalier East	5	968
+515003	Point Chevalier South	8	1053
+515100	Westmere	2	926
+515201	Herne Bay	1	909
+515202	St Marys	2	927
+515301	Ponsonby West	4	944
+515302	Ponsonby East	3	939
+515410	Grey Lynn West	4	952
+515420	Grey Lynn East	3	941
+515431	Surrey Crescent	7	1022
+515432	St Lukes North	3	941
+515500	Arch Hill	5	963
+515600	Eden Terrace	6	996
+515700	Epsom North	5	959
+515801	Epsom Central	4	948
+515802	Epsom South	2	924
+515901	Parnell East	1	913
+515902	Parnell West	4	946
+516001	Mt Hobson	4	957
+516002	Remuera South	3	937
+516003	Abbotts Park	2	919
+516101	Remuera West	2	918
+516102	Waitaramoa	1	898
+516201	Orakei South	1	892
+516202	Waiata	1	891
+516301	Meadowbank North	3	930
+516302	Meadowbank South	1	913
+516400	Orakei North	6	996
+516500	Mission Bay	2	919
+516601	Kohimarama West	1	901
+516602	Kohimarama East	1	896
+516700	St Heliers	1	898
+516800	Glendowie	1	890
+516900	Glen Innes North	2	921
+517001	Glen Innes West	10	1169
+517002	Glen Innes East	10	1194
+517100	Point England	10	1247
+517200	St Johns	7	1007
+517400	Newmarket	6	984
+517500	Kingsland	6	977
+517600	St Lukes	6	983
+517701	Sandringham North	5	971
+517702	Sandringham West	7	1016
+517703	Sandringham East	7	1013
+517800	Mt Albert Central	5	973
+517901	Springleigh	7	1003
+517902	Owairaka West	9	1102
+517903	Owairaka East	6	994
+518101	Mt Eden North	6	985
+518102	Sherbourne	6	977
+518201	Balmoral	4	950
+518202	Mt Eden East	3	943
+518301	Maungawhau	3	936
+518302	Mt Eden South	3	944
+518500	Three Kings	8	1047
+518600	Royal Oak	2	924
+518701	Hillsborough West	6	977
+518702	Hillsborough East	3	939
+518801	Walmsley	10	1161
+518802	Wesley	10	1127
+518803	Akarana	10	1116
+518901	Lynfield North	6	977
+518902	Lynfield South	4	952
+519001	Waikowhai West	3	938
+519002	Waikowhai East	8	1050
+519200	Mt St John	5	967
+519300	One Tree Hill Central	3	934
+519400	One Tree Hill East	4	952
+519500	Penrose	7	1011
+519710	Onehunga North West	7	1013
+519720	Onehunga North East	4	957
+519810	Onehunga South West	4	948
+519820	Onehunga South East	8	1045
+519900	Oranga	9	1098
+520000	Te Papapa	8	1033
+520201	Ellerslie North	3	938
+520202	Ellerslie South	5	963
+520300	Mt Wellington North	8	1031
+520401	Ferndale	7	1015
+520402	Hamlin	8	1027
+520500	Mt Wellington South	9	1095
+520601	Tamaki	10	1192
+520602	Panmure Basin	6	996
+520801	Waiheke Island	7	1018
+520803	Bays-Waiheke Island		
+520804	Tidal-Waiheke Island		
+520900	Islands-Motutapu, Rangitoto, Rakino		
+521000	Great Barrier Island	10	1134
+521111	Paerata-Cape Hill	3	942
+521112	Eden Road-Hill Top	4	945
+521113	Buckland	2	924
+521114	Redoubt	4	951
+521115	Opuawhanga	4	950
+521121	Patumahoe	2	926
+521122	Kingseat	2	920
+521131	Pokeno	3	936
+521132	Hunua	1	907
+521133	Mangatawhiri	5	972
+521151	Awhitu	4	954
+521152	Glenbrook	2	924
+521153	Otaua	2	919
+521160	Bombay	3	938
+521201	Hingaia	1	902
+521202	Whangapouri Creek	1	901
+521203	Bremner	1	899
+521301	Drury	3	929
+521302	Runciman	2	924
+521501	Mellons Bay	1	904
+521502	Cockle Bay	1	898
+521601	Howick West	3	941
+521602	Howick Central	4	951
+521801	Otahuhu North	10	1166
+521802	Fairburn	10	1164
+521803	Otahuhu East	9	1098
+521901	Otahuhu West	10	1171
+521902	Middlemore	6	991
+522100	Papatoetoe West	9	1085
+522201	Papatoetoe North	9	1061
+522202	Papatoetoe Central	8	1043
+522301	Dingwall	8	1025
+522302	Papatoetoe East	9	1075
+522400	Puhinui	8	1031
+522601	Bucklands and Eastern Beaches	2	923
+522603	Bleakhouse	1	896
+522604	Bucklands Beach South	3	933
+522605	Half Moon Bay Marina		
+522711	Pigeon Mountain North	5	972
+522712	Murvale	4	953
+522721	Pigeon Mountain South	5	961
+522722	Aberfeldy	5	969
+522723	Elsmore Park	5	964
+522730	Half Moon Bay	2	924
+522810	Pakuranga North	2	927
+522820	Sunnyhills	2	922
+522910	Pakuranga Central	5	958
+522920	Edgewater	7	1004
+523000	Pakuranga East	5	971
+523101	Botany Downs	2	918
+523102	Maungamaungaroa	2	928
+523105	Golfland	1	912
+523106	Millhouse	2	915
+523107	Burswood	5	960
+523108	East Tamaki	5	961
+523109	Dannemora	3	942
+523110	Kilkenny	1	904
+523111	Point View	2	921
+523201	Shelly Park	1	888
+523202	Turanga	1	891
+523300	Beachlands-Maraetai	2	922
+523401	Grange	10	1163
+523402	Otara West	10	1236
+523501	Otara North	10	1202
+523502	Otara East	10	1215
+523601	Otara South	10	1213
+523602	Ferguson	10	1250
+523711	Flat Bush	10	1190
+523712	Donegal Park	7	1023
+523713	Ormiston	3	942
+523721	Clover Park	10	1133
+523722	Redoubt North	8	1039
+523813	Ardmore	2	920
+523814	Totara Heights	2	927
+523815	Wairere	1	894
+523816	Randwick Park	9	1086
+523817	Hyperion	10	1160
+523820	Redoubt South	4	953
+523911	Takanini North	10	1145
+523912	Takanini South	8	1045
+523920	Takanini West	6	991
+524001	Ambury	5	975
+524002	Mangere Bridge	8	1032
+524111	Mangere Central	10	1171
+524112	Mascot	10	1138
+524121	Arahanga	10	1187
+524122	Viscount	10	1180
+524200	Mangere South	9	1086
+524301	Mangere East	9	1072
+524302	Aorere	10	1118
+524303	Kohuora	9	1066
+524402	Mangere Station	10	1306
+524403	Favona West	10	1178
+524404	Favona North	10	1134
+524405	Favona South	9	1088
+524510	Harania North	10	1176
+524520	Harania West	10	1155
+524530	Harania East	10	1181
+524601	Manukau Central	9	1086
+524602	Wiri	10	1223
+524711	Burbank	10	1150
+524712	Homai West	10	1170
+524713	Rowandale	10	1174
+524720	Homai East	10	1116
+524811	Weymouth West	9	1082
+524812	Weymouth East	9	1103
+524821	Clendon North	10	1188
+524822	Clendon South	10	1176
+524901	Hillpark	5	969
+524902	Manurewa East	10	1121
+525001	Manurewa Central	9	1079
+525002	Beaumont	10	1129
+525101	Leabank	9	1100
+525102	Wattle Farm	6	991
+525201	Clevedon	1	910
+525202	Kawakawa-Orere	6	984
+525410	Papakura Central	9	1084
+525420	Papakura North	8	1033
+525510	Papakura South	10	1209
+525520	Opaheke	5	964
+525530	Rosehill	9	1087
+525540	Pahurehure	2	927
+525610	Papakura East	10	1155
+525620	Massey Park	9	1068
+525630	Papakura North East	8	1048
+525700	Red Hill	10	1122
+525910	Pukekohe North	9	1067
+525921	Pukekohe West	6	983
+525922	Bledisloe Park	5	964
+526101	Waiuku	6	996
+526102	South Waiuku	2	922
+526200	Tuakau	9	1065
+526400	Rotowaro		
+526500	Raglan	9	1088
+526601	Waikato Western Hills	5	975
+526602	Te Uku	5	968
+526603	Te Pahu	2	925
+526701	Onewhero	5	965
+526702	Te Akau	5	967
+526900	Te Kauwhata	7	1005
+527004	Matangi	1	904
+527005	Sylvester	1	864
+527006	Flagstaff	1	910
+527007	Horsham Downs	2	922
+527008	Rototuna	1	903
+527009	Huntington	1	900
+527111	Whitikahu	3	944
+527112	Taupiri Community	10	1114
+527121	Eureka	1	913
+527122	Gordonton	3	933
+527123	Kainui	4	951
+527131	Tamahere-Tauwhare	2	916
+527132	Hautapu	2	916
+527210	Waerenga	5	959
+527221	Maramarua	5	958
+527222	Meremere	10	1240
+527401	Huntly West	10	1243
+527402	Huntly East	9	1082
+527501	Cambridge North	4	947
+527502	Cambridge West	5	972
+527503	Cambridge Central	7	1012
+527504	Leamington West	6	978
+527505	Leamington East	5	969
+527600	Ohaupo	4	955
+527700	Kihikihi	8	1046
+527810	Peacocke	3	931
+527820	Temple View	6	990
+527911	Horotiu	6	989
+527912	Te Kowhai	2	926
+527913	Whatawhata	2	914
+527914	Ngahinapouri	1	908
+527915	Lake Cameron	2	914
+527921	Te Rore	1	889
+527922	Pirongia	2	916
+527923	Pokuru	4	949
+527924	Lake Ngaroto	2	923
+527925	Tokanui	9	1084
+527931	Pukerimu	3	930
+527932	Kaipaki	3	931
+527934	Rotoorangi	3	929
+527935	Te Rahu	2	916
+527936	Kihikihi Flat	2	921
+527937	Allen Road	3	932
+528000	Rotongata	4	948
+528200	Ngaruawahia	10	1129
+528310	Bryant	6	989
+528320	Pukete	3	931
+528402	Pukete West	5	975
+528403	Te Rapa	8	1029
+528405	Burbush	3	941
+528406	Rotokauri	4	945
+528501	Nawton	7	1017
+528503	Crawshaw	10	1139
+528504	Grandview	8	1040
+528505	Brymer	3	939
+528601	Dinsdale North	4	953
+528602	Dinsdale South	7	1022
+528700	Beerescourt	5	969
+528800	Maeroa	8	1042
+528900	Frankton Junction	8	1041
+529000	Swarbrick	9	1092
+529100	Hamilton Lake	6	995
+529200	Melville	8	1038
+529300	Glenview	5	971
+529401	Queenwood	5	964
+529402	Chedworth	5	974
+529501	Porritt	9	1090
+529502	Insoll	10	1211
+529503	Fairview Downs	7	1004
+529600	Chartwell	3	931
+529700	Hamilton Central	10	1113
+529800	Clarkin	9	1098
+529900	Claudelands	8	1034
+530000	Enderley	10	1113
+530100	Peachgrove	8	1053
+530200	Hamilton East	9	1075
+530300	Naylor	7	1014
+530400	Bader	9	1090
+530500	University	8	1053
+530600	Silverdale	8	1030
+530700	Hillcrest West	7	998
+530800	Riverlea	3	937
+531001	Te Awamutu West	7	1015
+531002	Te Awamutu Central	7	1004
+531003	Te Awamutu East	7	1015
+531004	Te Awamutu South	8	1029
+531100	Kawhia Community	10	1139
+531200	Otorohanga	9	1057
+531301	Otorohanga Rural West	6	986
+531303	Te Kawa	4	950
+531304	Otorohanga Rural East	5	971
+531500	Piopio	8	1043
+531600	Taharoa	10	1139
+531710	Mahoenui	6	988
+531720	Marokopa	5	971
+531731	Waipa Valley	5	965
+531732	Tiroa	9	1087
+531800	Mokauiti	8	1028
+532000	Te Kuiti	10	1110
+532200	Omori	6	986
+532300	Owhango	6	984
+532400	Ohura	10	1151
+532501	Ngapuke	7	1005
+532502	Kuratau	6	986
+532601	Raurimu	5	970
+532602	National Park	8	1026
+532700	Otangiwai-Heao	7	1008
+532901	Tarrangower	10	1128
+532902	Taumarunui Central	10	1141
+532903	Sunshine-Hospital Hill	10	1125
+532904	Manunui	9	1077
+533000	Whitianga	7	1004
+533100	Coromandel	7	1021
+533200	Te Rerenga	7	1012
+533300	Whangamata	7	1019
+533400	Tairua	6	983
+533501	Moanataiari	8	1036
+533502	Parawai	7	1021
+533602	Pauanui Beach	4	952
+533603	Hikuai	6	991
+533604	Te Puru-Thornton Bay	6	997
+533800	Ngatea	6	988
+533901	Hauraki Plains	5	972
+533902	Turua	4	953
+533903	Kerepehi	9	1077
+534100	Waihi Beach	7	1007
+534200	Ohinemuri	6	995
+534300	Paeroa	9	1082
+534400	Waihi	10	1111
+534500	Tahuroa	4	953
+534602	Waitoa	7	1010
+534603	Springdale	5	958
+534604	Waihou-Walton	5	966
+534800	Te Aroha	8	1029
+534901	Morrinsville West	8	1052
+534902	Morrinsville East	5	967
+535000	Waharoa	10	1299
+535100	Tirau	8	1039
+535211	Mangakaretu	7	1017
+535212	Kinleith	6	977
+535220	Okauia	4	946
+535231	Te Poi	4	957
+535232	Tapapa	4	949
+535241	Karapiro	1	904
+535242	Hinuera	2	927
+535250	Arapuni	4	950
+535261	Lichfield	4	945
+535262	Wawa	4	945
+535310	Paraonui	6	997
+535320	Parkdale	8	1045
+535330	Matarawa	9	1107
+535340	Stanley Park	10	1194
+535350	Tokoroa Central	10	1201
+535360	Aotea	9	1074
+535370	Strathmore	10	1136
+535380	Amisfield	2	914
+535501	Matamata North	7	1003
+535502	Matamata South	7	998
+535600	Putaruru	9	1081
+535700	Athenree	6	977
+535800	Katikati Community	8	1025
+535900	Maketu Community	9	1090
+536000	Omokoroa	3	943
+536201	Papamoa Beach East	7	1009
+536202	Palm Springs	6	982
+536203	Doncaster	8	1036
+536400	Island View-Pios Beach	7	1011
+536503	Te Puna	3	941
+536505	Matapihi	9	1096
+536506	Inlet-Tauranga Harbour Omokoroa	1	911
+536508	Inlet-Tauranga Harbour	7	1021
+536509	Waikareao Estuary		
+536510	Motuopae Island		
+536512	Kairua	9	1075
+536513	Bethlehem East	1	899
+536514	Bethlehem	2	925
+536515	Pacific View	4	948
+536516	Palm Beach	6	991
+536517	Gravatt	3	943
+536611	Matakana Island	10	1125
+536613	Inlet-Tauranga Harbour North	4	945
+536614	Tahawai	4	956
+536615	Aongatete	4	951
+536620	Minden	3	930
+536630	Kaimai	3	931
+536641	Ohauiti-Ngapeke	4	945
+536642	Upper Papamoa	3	941
+536651	Paengaroa	8	1040
+536653	Rangiuru	6	990
+536654	Pongakawa	6	994
+536810	Mt Maunganui North	6	977
+536821	Omanu	6	976
+536822	Tauranga City-Marinas	6	984
+536831	Arataki	8	1052
+536832	Te Maunga	7	1022
+537000	Matua	3	938
+537100	Bellevue	7	1005
+537201	Otumoetai North	5	962
+537202	Otumoetai South	3	933
+537301	Brookfield	7	1012
+537302	Te Reti	6	989
+537400	Judea	7	1023
+537500	Gate Pa	9	1067
+537601	Greerton	8	1054
+537602	Pyes Pa	3	933
+537700	Yatton Park	10	1165
+537800	Poike	9	1062
+537900	Hairini	5	971
+538000	Maungatapu	6	987
+538101	Tauranga Hospital	10	1134
+538102	Tauranga South	8	1040
+538201	Tauranga Central	6	985
+538202	Sulphur Point	8	1043
+538301	Kaitemako	4	952
+538302	Welcome Bay West	7	1016
+538303	Welcome Bay East	6	981
+538501	Te Puke West	9	1054
+538502	Te Puke East	8	1031
+538601	Ngongotaha North	9	1055
+538602	Ngongotaha South	7	1016
+538721	Poets Corner	6	980
+538722	Ngapuna	10	1110
+538731	Owhata South	6	986
+538732	Lynmore	1	899
+538741	Owhata West	9	1072
+538742	Owhata East	8	1031
+538811	Hamurana	2	922
+538812	Inland Water-Lake Rotorua		
+538820	Tikitere	6	985
+538831	Kaingaroa Forest	10	1197
+538832	Tarawera	2	924
+538841	Golden Springs	3	938
+538842	Reporoa	7	1002
+538850	Ngakuru	3	929
+538861	Arahiwi	3	929
+538863	Waiwhero	5	964
+538864	Mamaku	8	1054
+539000	Selwyn Heights	10	1117
+539100	Western Heights	10	1146
+539200	Fairy Springs	9	1065
+539310	Pukehangi North	10	1131
+539320	Pukehangi South	6	983
+539400	Mangakakahi	9	1093
+539500	Sunnybrook	6	977
+539600	Fordlands	10	1319
+539700	Utuhina	8	1032
+539800	Pomare	4	948
+539900	Hillcrest	8	1038
+540000	Springfield	2	924
+540100	Kawaha Point	6	978
+540200	Koutu	10	1130
+540300	Ohinemutu	9	1079
+540410	Kuirau	10	1124
+540420	Victoria	10	1142
+540510	Glenholme East	6	976
+540520	Glenholme West	10	1149
+540600	Fenton	9	1099
+540700	Whaka	10	1119
+540900	Mangakino	10	1262
+541000	Turangi	9	1087
+541311	Acacia Bay	2	917
+541312	Wairakei-Aratiatia	9	1084
+541313	Maunganamu	6	985
+541315	Taupo East	9	1065
+541316	Wharewaka	4	949
+541317	Rangatira Park	2	927
+541318	Rangatira	5	975
+541319	Lakewood	2	923
+541320	Marotiri	5	970
+541332	Oruanui	3	933
+541333	Kinloch	2	923
+541342	Rangitaiki	10	1136
+541343	Iwitahi	7	1015
+541501	Rangipo	10	1119
+541502	Te More		
+541503	Taharua	8	1030
+541710	Nukuhau	6	990
+541720	Taupo Central	8	1042
+541730	Tauhara	8	1045
+541740	Hilltop	4	955
+541750	Waipahihi	2	914
+541760	Richmond Heights	5	969
+541900	Ohope	4	948
+542000	Matata	9	1082
+542100	Taneatua	10	1242
+542200	Edgecumbe	9	1064
+542300	Te Teko	10	1160
+542410	Whakatane North	9	1061
+542421	Coastlands	1	913
+542422	Whakatane West	9	1101
+542430	Trident	10	1116
+542440	Allandale-Mokorua	7	999
+542511	Orini	10	1153
+542513	Inlet-Ohiwa Harbour West		
+542514	Maraetotara	6	986
+542520	Poroporo	9	1056
+542530	Otakiri	4	950
+542540	Rotoma	9	1065
+542550	Matahina-Minginui	10	1126
+542561	Waimana	10	1169
+542562	Urewera	10	1131
+542600	Kawerau	10	1151
+542700	Murupara	10	1263
+542800	Opotiki	10	1182
+542901	Te Kaha	10	1286
+542903	Cape Runaway	10	1241
+542904	Oponae	10	1146
+542905	Inlet-Ohiwa Harbour East		
+542906	Waiotahi	8	1037
+543301	East Cape	10	1184
+543302	Ruatoria	10	1261
+543303	Tokomaru Bay	10	1203
+543601	Tarndale-Rakauroa	8	1029
+543602	Te Karaka	10	1145
+543800	Patutahi	8	1046
+543901	Makaraka	4	957
+543902	Matokitoki	2	916
+543903	Wainui	2	925
+544001	Wharekaka	6	983
+544002	Tiniroto	5	970
+544003	Manutuke	7	1007
+544004	Tolaga Bay	10	1135
+544200	Mangapapa	9	1069
+544300	Te Hapara	9	1077
+544400	Gisborne Airport	10	1190
+544500	Whataupoko	4	954
+544600	Gisborne Central	9	1084
+544701	Kaiti North	5	961
+544702	Outer Kaiti	10	1253
+544801	Kaiti South	10	1185
+544802	Tamarau	10	1166
+544900	Riverdale	5	970
+545201	Tuai	10	1191
+545202	Frasertown	7	1018
+545204	Ruakituri-Morere	6	983
+545205	Maungataniwha	8	1039
+545206	Inland Water-Lake Waikaremoana		
+545301	Raupunga	9	1087
+545302	Whakaki	8	1046
+545303	Nuhaka	9	1073
+545304	Mahia	10	1118
+545500	Wairoa	10	1144
+545611	Bay View	5	958
+545621	Poraiti	1	903
+545631	Meeanee	3	939
+545632	Awatoto	7	998
+545710	Twyford	4	950
+545721	Karamu	5	973
+545722	Whakatu	8	1026
+545730	Clive	5	960
+545740	Haumoana	5	965
+545750	Brookvale	2	919
+545761	Irongate	4	948
+545762	Longlands South	2	921
+545811	Tangoio	2	928
+545812	Eskdale	4	948
+545821	Sherenden-Puketapu	2	919
+545822	Omahu	8	1044
+545831	Waiohiki	2	925
+545832	Pakowhai	6	997
+545841	Maraekakaho	3	929
+545842	Bridge Pa	6	986
+545851	Poukawa	4	955
+545852	Pakipaki	5	961
+545860	Waimarama	4	956
+545911	Tutira	6	980
+545912	Puketitiri	3	937
+545913	Whanawhana	2	914
+546100	Westshore	5	966
+546200	Ahuriri	7	1010
+546300	Onekawa Central	6	993
+546400	Onekawa West	7	1013
+546500	Onekawa South	10	1127
+546600	Marewa	9	1100
+546700	Maraenui	10	1252
+546801	Hospital Hill	4	957
+546802	Bluff Hill	5	959
+546901	Nelson Park	8	1028
+546902	Mclean Park	8	1040
+547001	Tamatea North	8	1029
+547002	Tamatea South	7	1005
+547100	Greenmeadows	4	946
+547200	Taradale North	3	935
+547300	Taradale South	4	957
+547400	Pirimai	7	1007
+547600	Mahora	8	1053
+547700	St Leonards	8	1039
+547800	Frimley	5	968
+547900	Raureka	9	1060
+548000	Mayfair	8	1053
+548100	Parkvale	6	989
+548200	Hastings Central	9	1062
+548300	Akina	9	1057
+548400	Woolwich	6	990
+548500	Camberley	10	1244
+548611	Kingsley-Chatham	10	1204
+548612	Lochain	10	1143
+548620	Flaxmere East	10	1141
+548810	Anderson Park	9	1068
+548821	Iona	2	924
+548822	Havelock Hills	1	893
+548831	Te Mata	2	922
+548832	Havelock North Central	1	907
+548833	Te Mata Hills	1	883
+549000	Takapau	8	1046
+549100	Waipawa	8	1037
+549200	Tikokino	4	949
+549400	Otane	8	1054
+549500	Waipukurau	8	1030
+549601	Porangahau	9	1080
+549602	Elsthorpe-Flemington	3	933
+549800	Norsewood-Herbertville	3	943
+549901	Owahanga	5	969
+549902	Mara	6	989
+550101	Dannevirke West	7	1002
+550102	Dannevirke East	9	1090
+550200	Papatawa	4	946
+550500	Woodville	9	1062
+550600	Urenui	7	1020
+550700	Okoki-Okau	5	972
+550800	Oakura	3	935
+550901	Bell Block	6	992
+550902	Paraite	5	972
+551012	Glen Avon	5	957
+551013	Bowden	3	932
+551014	Mangaoraka	3	934
+551021	Carrington	1	897
+551022	Highlands Park	1	904
+551023	Fernleigh	1	900
+551024	Barrett	1	902
+551030	Omata	2	916
+551111	Lepperton	2	922
+551112	Kaitake	2	920
+551120	Okato	6	993
+551301	Waitara West	10	1130
+551302	Waitara East	9	1084
+551400	Moturoa	8	1049
+551501	Lynmouth	7	1007
+551502	Spotswood	7	1002
+551503	Marfell	10	1140
+551600	Upper Westown	3	938
+551700	Westown	8	1024
+551800	New Plymouth Central	7	1014
+551900	Kawaroa	7	1017
+552001	Mount Bryan	6	983
+552002	Marsland Hill	7	998
+552100	Fitzroy	6	979
+552200	Welbourn	6	981
+552300	Merrilands	6	983
+552400	Frankleigh	7	1007
+552500	Struan Park	6	983
+552701	Egmont Village	2	925
+552702	Kaimata	3	934
+552800	Inglewood	7	1001
+552900	Midhirst	7	1022
+553001	Whangamomona	9	1079
+553002	Douglas	3	940
+553003	Toko	3	928
+553004	Pembroke	3	934
+553101	Stratford West	8	1041
+553102	Stratford East	7	1014
+553200	Opunake	9	1083
+553301	Rahotu	8	1028
+553302	Kahui	6	978
+553400	Kaponga	10	1115
+553500	Mangatoki-Moeroa	4	947
+553601	Eltham	8	1029
+553700	Kapuni	5	958
+553800	Manaia	9	1095
+553900	Normanby	7	1012
+554010	Hawera North	7	1009
+554020	Hawera South	8	1035
+554111	Ohawe Beach	6	987
+554113	Tawhiti	3	940
+554114	Waingongoro	4	955
+554115	Hawera West	1	903
+554120	Ohangai	6	982
+554130	Okaiawa	7	1005
+554300	Waitotara	10	1109
+554400	Whenuakura	5	975
+554500	Makakaho	5	969
+554700	Patea	10	1200
+554800	Waverley	10	1147
+554900	Tangiwai	6	983
+555000	Ohakune	8	1034
+555100	Raetihi	9	1109
+555200	Otamatea	2	916
+555300	Blueskin	2	920
+555400	Maxwell	4	945
+555700	Castlecliff North	10	1130
+555800	Castlecliff South	10	1149
+555900	Mosston	10	1198
+556000	Balgownie	10	1303
+556100	Tawhero	7	1005
+556200	Gonville South	8	1048
+556300	Gonville East	9	1061
+556400	Gonville West	10	1246
+556500	Springvale West	5	966
+556600	Springvale East	3	941
+556700	Wanganui Collegiate	7	1008
+556800	Laird Park	10	1145
+556900	Wanganui Central	10	1136
+557000	Spriggens Park	9	1085
+557100	Cooks Gardens	9	1080
+557200	St Johns Hill	1	910
+557300	Lower Aramoho	10	1124
+557400	Upper Aramoho	8	1051
+557500	Williams Domain	9	1061
+557600	Wembley Park	10	1118
+557700	Kowhai Park	8	1048
+557800	Bastia Hill	2	914
+557900	Durie Hill	4	955
+558100	Putiki	6	991
+558200	Marybank-Gordon Park	3	938
+558300	Fordell-Kakatahi	6	979
+558500	Waiouru	6	989
+558600	Mangaweka	8	1047
+558700	Hunterville	8	1039
+558800	Ratana Community	10	1144
+558900	Bulls	7	998
+559000	Ngamatea	1	909
+559210	Moawhango	2	915
+559220	Pohonui-Porewa	4	954
+559230	Lake Alice	4	955
+559240	Koitiata	9	1062
+559400	Taihape	7	1019
+559500	Marton	8	1053
+559700	Kiwitea	4	950
+560000	Pohangina	2	916
+560200	Ashhurst	5	962
+560301	Stoney Creek	5	962
+560302	Whakarongo	2	919
+560411	Oroua Bridge	4	952
+560412	Maewa	3	928
+560421	Halcombe	3	937
+560422	Tokorangi-Hiwinui	1	909
+560710	Feilding North	8	1048
+560720	Feilding West	6	995
+560730	Feilding Central	8	1040
+560740	Feilding East	6	988
+560900	Sanson	7	1008
+561000	Rongotea	6	992
+561100	Tangimoana	10	1121
+561200	Himatangi Beach	9	1083
+561300	Foxton Beach	9	1062
+561410	Rakiraki	3	938
+561421	Ohakea	2	916
+561422	Oroua Downs-Waitohi	4	946
+561500	Moutoa	5	973
+561700	Foxton	10	1113
+561811	Kairanga	2	925
+561812	Longburn	5	959
+561813	Massey University	5	961
+561820	Linton Military Camp	5	968
+561901	Kauwhata	2	923
+561902	Turitea	1	895
+562100	Milson	5	975
+562200	Kelvin Grove	5	959
+562310	Takaro	7	1017
+562320	Cloverlea	7	997
+562401	Palmerston North Hospital	6	992
+562402	Papaeoia	8	1032
+562500	Roslyn	9	1079
+562600	Terrace End	6	980
+562710	Highbury	10	1135
+562720	Westbrook	8	1033
+562800	Palmerston North Central	9	1088
+562910	Awapuni North	9	1076
+562921	Awapuni West	3	935
+562922	Awapuni South	2	927
+563000	West End	8	1026
+563101	Hokowhitu West	4	957
+563102	Hokowhitu Lagoon	2	922
+563200	Hokowhitu East	4	954
+563300	Aokautere	1	889
+563500	Shannon	10	1146
+563600	Waitarere	7	1022
+563701	Waikanae Beach	6	976
+563703	Waikanae East	4	950
+563704	Peka Peka	2	925
+563705	Waikanae Park	3	930
+563706	Waikanae West	5	959
+563801	Tokomaru	6	984
+563802	Opiki	4	954
+563920	Kaitawa	1	898
+564011	Lake Horowhenua	6	996
+564012	Waiopehu	5	966
+564013	Kohitere	4	956
+564021	Mangaore-Manakau	4	956
+564022	Otaki Forks	3	930
+564023	Te Horo	3	934
+564210	Levin North	8	1026
+564220	Levin West	9	1104
+564231	Playford Park	9	1087
+564232	Levin South	10	1239
+564240	Levin East	8	1026
+564400	Otaki	9	1065
+564510	Heretaunga Park	1	904
+564520	Trentham South	6	979
+564530	Pinehaven	1	910
+564601	Nabhra	1	898
+564602	Riverstone Terraces	1	874
+564800	Glendale	9	1055
+564900	Parkway	7	1003
+565000	Fernlea	7	1000
+565100	Arakura	8	1044
+565200	Homedale West	8	1036
+565300	Homedale East	7	1010
+565400	Pencarrow	2	914
+565601	Pauatahanui	1	889
+565602	Endeavour	1	879
+565603	Resolution	1	886
+565604	Adventure	2	919
+565700	Paekakariki Hill	1	912
+565901	Paraparaumu Beach North	6	993
+565902	Otaihanga	2	919
+565903	Paraparaumu Beach South	5	965
+566000	Paraparaumu Central	6	997
+566101	Raumati Beach	5	971
+566102	Raumati South	5	966
+566200	Paekakariki	6	992
+566301	Kapiti Island		
+566302	Maungakotukutuku	1	897
+566500	Te Marua	3	935
+566610	Akatarawa	4	951
+566620	Emerald Hill	5	965
+566700	Maoribank	8	1030
+566800	Clouston Park	6	978
+566900	Totara Park	5	963
+567000	Ebdentown	7	1020
+567100	Upper Hutt Central	8	1027
+567200	Maidstone	7	1010
+567300	Wallaceville	7	1018
+567400	Elderslea	7	1000
+567500	Moonshine	5	972
+567600	Brentwood	9	1070
+567700	Trentham North	8	1038
+567800	Heretaunga-Silverstream	3	942
+567901	Cloustonville	1	904
+567902	Mangaroa	1	889
+568101	Tawhai	5	965
+568102	Holborn	7	1017
+568103	Delaney	9	1107
+568104	Manuka	2	923
+568201	Taita North	10	1202
+568202	Taita South	10	1130
+568301	Avalon East	9	1088
+568302	Naenae North	10	1141
+568303	Naenae South	10	1125
+568401	Avalon West	5	969
+568402	Boulcott	4	949
+568501	Epuni West	7	1003
+568502	Epuni East	8	1036
+568601	Waterloo West	2	922
+568602	Waterloo East	5	963
+568701	Waiwhetu North	8	1041
+568702	Waiwhetu South	7	1017
+568800	Gracefield	10	1147
+568900	Moera	10	1119
+569001	Woburn North	1	898
+569002	Woburn South	6	996
+569100	Hutt Central	3	928
+569201	Melling	7	1022
+569202	Alicetown	6	987
+569301	Normandale	1	885
+569302	Maungaraki	2	913
+569401	Tirohanga	1	882
+569402	Belmont	1	895
+569500	Kelson	1	908
+569600	Haywards-Manor Park	5	963
+569800	Korokoro	1	907
+569900	Petone Central	7	1003
+570000	Esplanade	7	1018
+570100	Wilford	7	1023
+570300	Eastbourne	1	895
+570400	Titahi Bay North	9	1070
+570500	Onepoto	6	996
+570600	Titahi Bay South	9	1095
+570700	Elsdon-Takapuwahia	10	1122
+570800	Porirua Central	10	1202
+570900	Porirua East	10	1177
+571000	Ranui Heights	6	992
+571100	Cannons Creek North	10	1222
+571200	Cannons Creek South	10	1138
+571300	Cannons Creek East	10	1198
+571400	Waitangirua	10	1197
+571500	Papakowhai	1	901
+571600	Ascot Park	9	1080
+571800	Pukerua Bay	2	918
+571900	Plimmerton	2	914
+572000	Mana-Camborne	1	911
+572100	Paremata-Postgate	2	915
+572200	Discovery	1	905
+572300	Mana Island		
+572500	Tawa South	1	899
+572600	Tawa Central	5	959
+572701	Linden	6	990
+572702	Greenacres	1	886
+572900	Thorndon-Tinakori Road	4	950
+573000	Lambton	9	1068
+573101	Willis Street-Cambridge Terrace	8	1048
+573102	Wellington City-Marinas		
+573200	Aro Street-Nairn Street	9	1082
+573300	Mt Cook-Wallace Street	9	1090
+573400	Mt Victoria West	5	974
+573511	Glenside North	3	942
+573512	Churton	1	887
+573522	Grenada North	8	1035
+573523	Grenada Village	1	906
+573524	Newlands East	3	929
+573525	Takapu	1	885
+573526	Horokiwi	1	900
+573600	Johnsonville North	2	927
+573700	Johnsonville South	6	990
+573800	Johnsonville East	2	928
+573900	Newlands North	4	947
+574001	Newlands South	4	951
+574002	Ngauranga East	3	941
+574100	Raroa	4	956
+574200	Khandallah Park	1	893
+574302	Te Kainga	1	890
+574303	Ngauranga West	1	876
+574304	Rangoon Heights	1	896
+574401	Awarua	1	891
+574402	Ngaio	1	895
+574500	Kaiwharawhara	2	922
+574600	Wadestown	1	893
+574700	Wilton-Otari	2	928
+574800	Karori North	1	902
+574900	Karori Park	4	954
+575000	Karori East	1	899
+575100	Karori South	2	925
+575200	Northland	3	935
+575300	Kelburn	5	964
+575400	Taitville	4	954
+575500	Mitchelltown	3	931
+575600	Brooklyn	2	927
+575700	Vogeltown	3	941
+575800	Kingston	5	960
+575901	Brooklyn South	3	932
+575902	Happy Valley-Owhiro Bay	4	945
+576001	Island Bay West	3	944
+576002	Island Bay East	2	928
+576100	Melrose	3	933
+576200	Berhampore	9	1074
+576300	Newtown West	8	1041
+576400	Newtown East	9	1082
+576500	Adelaide	8	1026
+576600	Oriental Bay	3	928
+576700	Roseneath	2	927
+576800	Hataitai	3	929
+576901	Kilbirnie East	9	1055
+576903	Kilbirnie West	6	976
+576904	Evans Bay Marina		
+577000	Lyall Bay	6	984
+577100	Strathmore Park	8	1028
+577200	Miramar South	6	986
+577300	Miramar North	5	971
+577400	Karaka Bay-Worser Bay	1	895
+577500	Seatoun	1	896
+577600	Maupuia	7	1000
+577700	Makara-Ohariu	1	910
+577900	Mangatainoka	4	950
+578000	Pahiatua	8	1040
+578100	Eketahuna	10	1124
+578200	Nireaha-Tiraumea	4	951
+578301	Homebush-Te Ore Ore	3	935
+578302	Opaki-Fernridge	1	911
+578401	Kopuaranga	2	916
+578402	Whareama	3	929
+578600	Masterton Central	9	1106
+578700	Masterton West	8	1024
+578800	Masterton East	10	1131
+578901	Solway North	6	993
+578902	Solway South	7	1023
+579000	Ngaumutawa	7	1014
+579100	Masterton Railway	10	1133
+579200	Lansdowne	7	999
+579400	Waingawa	3	934
+579501	Mt Holdsworth	2	924
+579502	Te Wharau	1	906
+579700	Carterton	7	1009
+579802	Tuturumuri	3	942
+579803	Kahutara	3	932
+579804	Inland Water-Lake Wairarapa		
+579900	Greytown	4	957
+580000	Featherston	8	1035
+580100	Martinborough	6	994
+580200	Havelock	5	969
+580300	Renwick	3	934
+580410	Woodbourne	4	948
+580420	Omaka	1	910
+580430	Spring Creek-Riverlands	4	949
+580442	Waikawa	4	952
+580444	Wairau	2	919
+580445	Marlborough Sounds Coastal Marine	4	945
+580446	Marlborough Sounds Terrestrial	5	962
+580600	Severn	4	957
+580801	Ward	3	932
+580802	Seddon	7	1011
+580900	Lake Tennyson	1	910
+581100	Picton	7	1005
+581210	Springlands	4	945
+581220	Mayfield	8	1039
+581230	Blenheim Central	8	1025
+581240	Whitney	7	998
+581250	Redwoodtown	6	987
+581260	Witherlea	3	933
+581400	Kaikoura Township	7	1007
+581500	Kaikoura Rural	4	948
+581601	Golden Bay	6	981
+581602	Takaka	7	1012
+581713	Glenduan	2	924
+581715	Ngawhatu	2	920
+581717	Aniseed Hill	1	886
+581720	Hope	3	934
+581721	Saxton Island	3	940
+581722	Waimea Inlet East		
+581723	Saxton	3	936
+581724	Best Island	4	947
+581725	Bell Island		
+581726	Ranzau	3	937
+581811	Richmond Hill	1	893
+581812	Whangamoa	3	941
+581822	Brightwater	2	914
+581823	Wakefield	3	935
+581825	Mapua	3	940
+581831	Inlet-Motueka		
+581832	Kaiteriteri	5	962
+581833	Motueka Outer	6	976
+581834	Rabbit Island	8	1036
+581835	Waimea Inlet West	4	946
+581836	Wai-Iti	2	928
+581841	Golden Downs	6	977
+581842	Lake Rotoroa	6	981
+581843	Murchison	6	995
+581844	Tapawera	9	1060
+581850	Riwaka	5	963
+582000	Clifton	2	914
+582100	Atawhai	3	933
+582200	Port Nelson	6	992
+582300	The Wood	8	1033
+582401	Britannia	3	936
+582402	Washington	8	1051
+582500	Trafalgar	7	1000
+582600	Maitai	7	1000
+582700	Kirks	8	1025
+582800	Bronte	5	967
+582900	Atmore	5	959
+583000	Tahunanui	8	1049
+583100	Tahuna Hills	3	940
+583201	Toi Toi	9	1064
+583202	Broads	9	1055
+583300	Grampians	8	1024
+583400	The Brook	6	987
+583500	Nelson Airport	8	1025
+583600	Nayland	6	996
+583700	Enner Glynn	4	952
+583800	Maitlands	5	974
+583900	Isel Park	9	1067
+584000	Langbein	6	981
+584201	Richmond East	5	961
+584202	Richmond West	4	947
+584301	Motueka West	8	1029
+584303	Motueka East	7	1009
+584304	Moutere Inlet		
+584305	Jackett Island	8	1029
+584402	Karamea	8	1030
+584403	Hector-Ngakawau	10	1163
+584404	Granity	10	1140
+584405	Orowaiti	5	961
+584407	Little Wanganui	7	1014
+584408	Mokihinui	9	1106
+584409	Buller Coalfields	8	1039
+584410	Westport Rural	4	954
+584411	Charleston	8	1036
+584412	Inangahua Junction	8	1046
+584500	Westport Urban	9	1055
+584600	Reefton	9	1056
+584701	Inangahua Valley	7	1008
+584702	Mawheraiti	5	975
+584703	Maruia	6	980
+584800	Karoro	1	897
+584911	Kaiata	6	984
+584912	South Beach-Camerons	2	922
+584922	Blackball	9	1067
+584923	Point Elizabeth	4	949
+584930	Dobson	7	1005
+584931	Barrytown	7	1019
+584932	Coal Creek	4	949
+584933	Atarau	4	949
+584934	Greymouth Rural	7	1002
+584935	Marsden-Hohonu	5	964
+584936	Arnold Valley	5	959
+584937	Nelson Creek-Ngahere	6	992
+584938	Ahaura	5	972
+584939	Lake Brunner	6	977
+584940	Haupiri	4	946
+585000	Runanga-Rapahoe	8	1033
+585110	Cobden	9	1088
+585120	Blaketown	7	1010
+585130	Greymouth Central	9	1095
+585140	Greymouth South	5	973
+585306	Kumara	8	1049
+585307	Kaniere	2	927
+585309	Ross	6	987
+585311	Harihari	6	978
+585312	Franz Josef	4	957
+585313	Fox Glacier	5	963
+585314	Taramakau	6	986
+585315	Otira	9	1093
+585316	Waimea-Arahura	4	957
+585317	Hokitika Rural	5	975
+585318	Hokitika Valley	3	932
+585319	Totara River	4	952
+585320	Waitaha	6	996
+585321	Whataroa	5	963
+585322	Waiho	5	963
+585323	Karangarua	7	1001
+585324	Bruce Bay-Paringa	7	1003
+585325	Haast	8	1033
+585400	Hokitika Urban	7	1015
+585502	Hanmer Springs	6	982
+585504	Culverden	5	967
+585505	Waiau	9	1089
+585506	Amuri	2	922
+585601	Parnassus	4	946
+585602	Cheviot	7	1013
+585700	Hurunui	4	951
+585802	Amberley	6	982
+585803	Leithfield	2	927
+585805	Sefton	3	930
+585806	Okuku	2	921
+585807	Loburn	1	897
+585808	Ashley	2	920
+586001	Camside	2	918
+586002	Pines-Kairaki Beach	7	1002
+586112	Waikuku	5	972
+586114	Cust	1	881
+586115	Mairaki	1	887
+586116	Fernside	1	903
+586117	Tuahiwi	4	950
+586118	Coldstream	4	950
+586120	Woodend	2	919
+586302	Rangiora West	5	960
+586303	Rangiora East	7	1000
+586304	Southbrook	4	951
+586305	Kingsbury	1	902
+586306	Rangiora North	7	998
+586401	Kaiapoi North	6	976
+586403	Kaiapoi South	7	1008
+586404	Mansfield	2	916
+586405	Courtenay	1	913
+586501	Clarkville	2	925
+586502	Kaiapoi West	6	980
+586601	West Eyreton	1	899
+586603	Mandeville	1	883
+586604	Ohoka	1	898
+586801	Ashley Gorge	3	935
+586802	Oxford	6	986
+586900	Darfield	5	958
+587010	Kirwee	1	906
+587020	Burnham Military Camp	4	957
+587100	Malvern	4	948
+587302	Halswell South	1	913
+587303	Oaklands West	1	902
+587304	Oaklands East	4	944
+587400	Hornby North	8	1030
+587500	Hornby South	7	1022
+587701	Sockburn	7	1016
+587702	Wigram	5	968
+587811	Yaldhurst	2	927
+587812	Broomfield	8	1026
+587820	Templeton	4	956
+587830	Islington	6	988
+587841	Prebbleton	1	887
+587842	Halswell West	2	921
+587844	Westmorland	1	884
+587845	Aidanfield	1	903
+587846	Halswell Domain	1	897
+587847	Hendersons Basin	4	952
+587902	Mcleans Island	1	913
+587903	Kennedys Bush	1	886
+587904	West Melton	1	895
+587905	Taitapu	1	900
+588101	Redwood North	4	957
+588102	Redwood South	4	952
+588200	Styx Mill	5	974
+588300	Casebrook	9	1073
+588401	Belfast South	2	921
+588402	Sawyers Arms	2	926
+588500	Kaimahi	4	946
+588600	Harewood	4	953
+588700	Bishopdale	5	973
+588800	Russley	3	936
+588900	Burnside	4	954
+589000	Wairarapa	6	981
+589100	Jellie Park	9	1078
+589200	Bryndwr	2	921
+589300	Holmwood	1	899
+589400	Fendalton	3	939
+589500	Deans Bush	1	898
+589601	Hawthornden	2	924
+589602	Merrin	4	954
+589700	Westburn	3	936
+589800	Masham	3	937
+589900	Avonhead	3	935
+590000	Ilam	6	979
+590100	Upper Riccarton	7	1013
+590200	Wharenui	8	1035
+590300	Middleton	9	1056
+590400	Belfast	5	966
+590501	Travis Wetland	2	925
+590502	Marshland	2	916
+590602	Parklands	5	964
+590603	Waimairi Beach	3	929
+590604	Styx	4	952
+590701	Mona Vale	4	949
+590702	Riccarton West	9	1082
+590800	Riccarton	8	1042
+590900	Riccarton South	9	1059
+591101	Cashmere West	1	893
+591102	Cashmere East	1	889
+591200	Rapaki Track	2	925
+591300	Heathcote Valley	3	932
+591500	Cathedral Square	8	1049
+591600	Hagley Park	7	1008
+591700	Avon Loop	8	1044
+591800	Northcote	8	1028
+591900	Papanui	4	957
+592000	Aorangi	4	956
+592100	Strowan	2	927
+592200	Merivale	5	959
+592300	Rutland	2	924
+592401	St Albans West	6	986
+592402	St Albans East	7	1013
+592500	Mairehau	5	959
+592600	Edgeware	7	1013
+592701	Shirley West	8	1047
+592702	Shirley East	8	1042
+592811	Burwood	4	950
+592812	Dallington	6	983
+592820	Travis	4	953
+592900	Avondale	5	960
+593000	Chisnall	8	1033
+593100	Aranui	10	1168
+593200	Richmond North	5	975
+593300	Richmond South	9	1106
+593400	Avonside	9	1056
+593501	Linwood	10	1112
+593502	Phillipstown	10	1126
+593600	Linwood North	9	1060
+593700	Linwood East	9	1094
+593800	Bexley	9	1065
+593900	Bromley	9	1069
+594010	Woolston West	9	1065
+594020	Ferrymead	7	1012
+594100	Woolston South	9	1062
+594200	Ensors	9	1079
+594300	Opawa	5	966
+594400	St Martins	3	932
+594500	Waltham	10	1112
+594600	Sydenham	9	1071
+594700	Addington	9	1099
+594800	Barrington North	7	1010
+594900	Barrington South	4	955
+595000	Spreydon	8	1027
+595100	Hoon Hay	4	954
+595200	Hoon Hay South	3	936
+595300	Hillmorton	8	1028
+595400	Somerfield	5	965
+595500	Beckenham	2	915
+595600	North Beach	7	1000
+595700	Rawhiti	7	1010
+595800	New Brighton	8	1036
+595900	South Brighton	5	958
+596000	Mt Pleasant	1	891
+596101	Avon-Heathcote Estuary	2	920
+596102	Moncks Bay	1	905
+596200	Sumner	2	923
+596400	Lyttelton	4	950
+596502	Diamond Harbour	3	942
+596503	Governors Bay	1	893
+596504	Quail Island		
+596600	Port Levy	7	1016
+596800	Akaroa	3	928
+596901	Akaroa Harbour	3	930
+596902	Banks Peninsula Eastern Bays	5	964
+597000	Chatham Islands	6	986
+597101	Little River	4	951
+597102	Inland Water-Lake Ellesmere South		
+597200	Lincoln	4	946
+597300	Leeston	3	943
+597400	Southbridge	3	932
+597502	Rolleston	1	909
+597503	Dunsandel	2	921
+597504	Springston	1	904
+597505	Inland Water-Lake Ellesmere North		
+597506	Selwyn-Rakaia	2	925
+597600	Methven	3	941
+597711	Fairton	1	898
+597712	Plains Railway	1	906
+597720	Mt Somers	2	920
+597730	Hinds	2	920
+597741	Chertsey	3	939
+597742	Rakaia	7	999
+597810	Allenton	3	941
+597820	Ashburton Central West	5	966
+597830	Netherby	7	1023
+597840	Ashburton Central East	7	1006
+597850	Hampstead	8	1028
+597860	Tinwald	5	964
+598000	Winchester	4	951
+598201	Fairview-Scarborough	3	933
+598202	Otipua Creek-Washdyke Flat	1	902
+598311	Ben Mcleod	3	932
+598312	Orari	3	930
+598313	Levels	1	909
+598314	Pareora	8	1024
+598320	Pleasant Point	5	961
+598500	Geraldine	5	971
+598600	Temuka	7	999
+598700	Washdyke	5	975
+598800	Waimataitai	7	1008
+598900	Marchwiel	7	1016
+599000	Maori Park	6	989
+599100	Highfield	3	941
+599200	Glenwood	5	965
+599300	Gleniti	1	910
+599400	Fraser Park	6	979
+599500	Seaview	8	1048
+599600	Watlington	6	991
+599700	Parkside	8	1047
+599800	Timaru Gardens	8	1037
+599900	Redruth	9	1059
+600100	Twizel Community	6	989
+600200	Fairlie	5	962
+600312	Mt Cook	5	970
+600320	Lake Tekapo	3	935
+600321	Inland Water-Lake Alexandrina		
+600322	Inland Water-Lake Tekapo	1	911
+600323	Mackenzie	3	931
+600410	Waihao	3	943
+600420	St Andrews	4	955
+600500	Waimate	9	1055
+600600	Weston	3	935
+600811	Pukeuri	2	922
+600812	Ardgowan	1	902
+600813	Cape Wanbrow	1	899
+600822	Duntroon	6	982
+600824	Kurow	6	988
+600826	Maheno	4	947
+600827	Omarama	4	954
+600828	Kakanui	6	977
+600830	Otematata	6	987
+600831	Aviemore	4	952
+600832	Inland Water-Lake Ohau	2	925
+600840	Hampden	6	993
+601010	Oamaru North	8	1026
+601020	Orana Park	8	1027
+601030	Oamaru Central	7	1010
+601040	Oamaru South	5	970
+601200	Palmerston	6	982
+601301	Waihemo	4	957
+601302	Hyde	4	954
+601400	Waikouaiti	5	972
+601500	Aramoana	3	938
+601602	Waitati	5	960
+601603	Evansdale	4	949
+601604	Karitane	6	981
+601605	Warrington	4	948
+601700	Nenthorn	1	894
+601900	Fairfield	1	897
+602000	Brighton	5	974
+602100	Waldronville	2	925
+602200	Outram	1	910
+602300	Middlemarch	7	1005
+602411	Wyllies Crossing	1	895
+602412	Wingatui	1	907
+602421	Kaikorai Hill	1	887
+602422	Saddle Hill	1	890
+602500	Taieri	1	904
+602600	Strath Taieri	3	942
+602800	Harbourside	9	1096
+602900	Fernhill	9	1073
+603000	High St-Stuart St	7	1024
+603100	Stuart St-Frederick St	9	1083
+603210	Opoho	3	940
+603220	Forrester Park	7	1004
+603300	North East Valley	8	1027
+603400	Pine Hill	7	1010
+603500	Woodhaugh	7	999
+603601	North Dunedin	9	1107
+603602	Otago University	10	1126
+603710	Maori Hill	2	917
+603720	Balmacewen	4	954
+603810	Glenleith	1	899
+603820	Helensburgh	2	914
+603910	Wakari	7	998
+603920	Halfway Bush	6	990
+603930	Brockville	8	1034
+604010	Roslyn North	2	926
+604020	Roslyn South	3	936
+604110	Mornington	5	969
+604120	Belleknowes	3	934
+604130	Kenmure	3	943
+604210	Caversham	8	1039
+604221	Corstorphine West	9	1091
+604222	Corstorphine East	3	941
+604300	Caledonian	9	1096
+604410	South Dunedin	10	1189
+604420	Forbury	9	1084
+604500	St Clair	7	1009
+604611	Musselburgh	4	950
+604612	Andersons Bay	2	920
+604620	Vauxhall	1	905
+604710	St Leonards-Blanket Bay	1	912
+604720	Ravensbourne	5	972
+604810	Inner Peninsula	4	944
+604821	Company Bay	1	903
+604822	Macandrew Bay	1	906
+604830	Broad Bay-Portobello	3	932
+604901	Taiaroa-Cape Saunders	7	1004
+604902	Sandymount	1	878
+605100	Sawyers Bay	4	952
+605200	Port Chalmers	8	1037
+605400	St Kilda West	5	967
+605500	St Kilda Central	9	1062
+605600	St Kilda East	7	1019
+605800	Green Island	6	980
+605910	Abbotsford	3	944
+605920	Concord	6	991
+606100	Mosgiel East	7	1002
+606210	Mosgiel South	5	973
+606220	East Taieri	1	898
+606300	Bush Road	6	981
+606500	Benhar	8	1027
+606600	Stirling	3	938
+606700	Bruce	3	934
+606800	Milton	8	1042
+606900	Kaitangata	7	1020
+607000	Clinton	8	1041
+607100	Kaka Point	5	964
+607200	Owaka	6	996
+607300	Clutha	3	929
+607400	Balclutha	6	976
+607501	Teviot	4	956
+607502	Tuapeka	3	930
+607600	Tapanui	6	984
+607700	Lawrence	7	1012
+607800	Roxburgh	7	1006
+607900	Ranfurly	5	975
+608000	Maniototo	3	936
+608100	Naseby	5	972
+608302	Dunstan	1	908
+608303	Clyde	4	946
+608304	Hawea	2	923
+608305	Inland Water-Lake Hawea		
+608500	Alexandra	5	961
+608600	Cromwell	4	956
+608700	Frankton	3	939
+608800	Wanaka	2	921
+609011	Milford	10	1452
+609012	Glenorchy	3	943
+609022	Kelvin Heights	1	901
+609023	Sunshine Bay	3	935
+609026	Wakatipu	1	886
+609027	Inland Water-Lake Wakatipu	2	916
+609028	Lake Hayes	1	888
+609029	Matukituki	2	916
+609030	Inland Water-Lake Wanaka		
+609200	Arrowtown	2	913
+609301	Queenstown Bay	5	975
+609302	Queenstown Hill	3	942
+609400	Balfour Community	5	970
+609500	Riversdale Community	3	937
+609600	Lumsden Community	7	1011
+609700	Edendale Community	5	961
+609800	Wyndham	6	989
+609911	Makarewa North	2	913
+609912	Makarewa	1	908
+609913	Bay Road West	2	918
+609914	Mill Road-Woodend	3	941
+609921	Bushy Point	1	886
+609922	Otatara	1	893
+610010	Charlton	1	911
+610020	Waikaia	3	935
+610031	Kaweku	2	918
+610032	Chatton	2	915
+610033	Kaiwera	1	909
+610040	Hokonui	2	919
+610051	Waianiwa	2	916
+610052	Oreti Beach	2	920
+610061	Dacre	1	910
+610062	Myross Bush	1	890
+610072	Waituna	2	924
+610073	Woodlands	2	923
+610074	Greenhills	4	946
+610075	Tiwai Point		
+610080	Toetoes	3	933
+610090	Wallacetown	3	935
+610210	North Gore	5	967
+610220	East Gore	7	1020
+610230	Central Gore	6	978
+610240	West Gore	5	964
+610250	South Gore	7	1014
+610400	Mataura	8	1051
+610500	Winton	4	953
+610601	Grasmere	6	977
+610602	Waikiwi	4	947
+610700	Rosedale	1	912
+610800	Gladstone-Avenal	4	946
+610900	Windsor	5	968
+611001	Waverley-Glengarry	8	1042
+611002	Hawthorndale	6	996
+611100	Richmond	7	1011
+611210	Otakaro Park	9	1081
+611220	Crinan	10	1192
+611300	West Invercargill	10	1138
+611400	Georgetown	9	1079
+611500	Newfield-Rockdale	7	1022
+611601	Heidelberg	9	1079
+611602	Strathern	9	1066
+611700	Appleby-Kew	9	1099
+611800	Kingswell-Clifton	8	1043
+611900	Tisbury	3	937
+612100	Bluff	9	1061
+612200	Nightcaps	9	1078
+612300	Ohai	10	1110
+612400	Te Anau	4	948
+612500	Tuatapere	6	981
+612600	Otautau	7	1009
+612712	Manapouri	3	933
+612713	Mossburn	4	953
+612714	Mararoa River	1	905
+612715	Inland Water-Lake Te Anau	1	886
+612720	Wairio	3	936
+612730	Te Waewae	5	958
+612740	Fairfax	3	935
+612801	Riverton East	9	1058
+612802	Riverton West	5	971
+612901	Fiordland	2	924
+612902	Inland Water-Lake Manapouri	2	924
+612903	Inland Water-Lake Hauroko		
+613000	Stewart Island	7	1018
+614001	Oceanic-Kermadec Islands		
+614002	Kermadec Islands		
+614502	Inlet-Hokianga Harbour		
+614503	Three Kings Islands		
+614504	Oceanic-Northland Region		
+614601	Inlet-Rangaunu Harbour		
+614602	Inlet-Doubtless Bay		
+614700	Inlet-Whangaroa Harbour		
+614800	Inlet-Bay of Islands		
+615101	Inlet-Tutukaka Harbour		
+615102	Inlet-Whangarei Harbour	4	950
+615301	Inlet-Port Whangarei		
+615302	Inlet-Mangawhai Harbour		
+615800	Mokohinau Island		
+615900	Little Barrier Island		
+616001	Kaikoura and Rangiahua Islands		
+616002	Inlet-Port Fitzroy		
+616100	Cape Barrier		
+616200	Rakitu Island		
+616300	Browns Island		
+616400	Aiguilles Island		
+617000	Inlet-Kaipara Harbour North		
+617101	Inlet-Kaipara Harbour South		
+617102	Inlet-Kaipara River		
+617200	Inlet-Takapuna Head		
+617400	Inlet-Hobson Bay		
+617501	Oceanic-Auckland Region East		
+617502	Tidal-Great Barrier Island		
+617503	Tidal-Motutapu and Browns Islands		
+617602	Oceanic-Auckland Region West		
+617604	Tidal-Manukau Harbour		
+617605	Inlet-Manukau Harbour		
+617606	Tidal-Manukau Harbour  North		
+617702	Tidal-Tamaki		
+617703	Tamaki Strait		
+617704	Tidal-Eastern Bays		
+617800	Inlet-Waiuku River		
+617901	Inlet-Waitemata Harbour		
+617902	Tidal-Waitemata Harbour		
+617903	Auckland City-Marinas		
+618300	Te Motu Island		
+618400	Motiti Island		
+618500	Mayor Island		
+619000	Inlet-Raglan Harbour		
+619101	Inlet-Aotea Harbour North		
+619102	Inlets-Otorohanga District		
+619201	Inlet-Waitomo District		
+619202	Oceanic-Waikato Region West		
+619301	Inlets-Thames-Coromandel District		
+619302	Islands-Thames-Coromandel District		
+619303	Bays-Thames-Coromandel District		
+619400	Oceanic-Waikato Region East		
+619500	Inlet-Firth of Thames		
+619701	Moutohora Island		
+619702	Oceanic-Bay of Plenty Region		
+619900	White Island		
+620000	Inland Water-Lake Taupo		
+620400	Oceanic-Gisborne Region		
+620901	Inlet-Port Napier		
+620903	Oceanic-Hawke's Bay Region		
+620904	Bare Island		
+621401	Port-Taranaki		
+621402	Oceanic-Taranaki Region		
+621500	Oceanic-Oil Rigs Taranaki		
+622000	Oceanic-Tararua Constituency		
+622101	Inlet-Wellington Harbour		
+622102	Seaview Marina		
+622201	Inlet-Porirua Harbour		
+622202	Oceanic-Wellington Region		
+622700	Oceanic-Manawatu-Wanganui Region		
+623801	Inlet-Tasman Bay	6	992
+623803	Oceanic-Tasman Region		
+623804	Oceanic-Nelson Region		
+623805	Oceanic-Marlborough Region		
+623806	Oceanic-Canterbury Region North		
+623900	Inlet-Ligar Bay		
+624100	Inlet-Buller River		
+624600	Oceanic-West Coast Region		
+625101	Inlet-Port Lyttelton		
+625102	Inlets-Banks Peninsula Bays		
+625103	Oceanic-Canterbury Region South		
+625200	Oceanic-Chatham Islands		
+625300	Inlet-Port Timaru		
+625800	Inlet-Otago Harbour		
+625901	Inlet-Dunedin City Bays		
+625902	Oceanic-Otago Region		
+626000	Inlet-Port Oamaru		
+626100	Inlet-Milford Sound		
+626500	Dog Island		
+626601	Oceanic-Campbell Island		
+626602	Campbell Island		
+626700	Centre Island		
+626801	Inlet-Bluff Harbour		
+626802	Inlet-New River Estuary		
+626900	Oceanic-Oil Rig Southland		
+627000	Inlet-Jacobs River Estuary		
+627201	Oceanic-Southland Region		
+627203	Oceanic-Auckland Islands		
+627204	Auckland Islands		
+628000	Ross Dependency		
+666667	NZ Economic Zone		
+666668	Oceanic-Bounty Islands		
+666669	Bounty Islands		
+666670	Oceanic-Snares Islands		
+666671	Snares Island		
+666672	Oceanic-Antipodes Islands		
+666673	Antipodes Islands		
